@@ -1,4 +1,4 @@
-# MovieLens Semantic Search Demo
+# Movies Semantic Search Demo using Cosmos DB in Fabric
 
 A demo application that showcases semantic search capabilities in Cosmos DB in Microsoft Fabric, using movie data.
 
